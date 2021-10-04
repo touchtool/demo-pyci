@@ -24,4 +24,3 @@ class StatsTest(TestCase):
 if __name__ == '__main__':
     import unittest
     unittest.main(verbosity=1)
-
