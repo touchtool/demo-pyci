@@ -31,7 +31,6 @@ def variance(data):
     >>> variance([1000000, 1000004])
     4.0
     """
-    # some deliberately misformatted code. Use flake8 to fix.
     n = len(data)
     if n == 0:
         raise ValueError
